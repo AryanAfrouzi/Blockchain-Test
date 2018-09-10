@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/aryan/Desktop/aryan blockchain/blockchain.c" "C:/Users/aryan/Desktop/aryan blockchain/cmake-build-debug/CMakeFiles/aryan_blockchain.dir/blockchain.c.obj"
+  "K:/Github/Blockchain-Test/blockchain.c" "K:/Github/Blockchain-Test/cmake-build-debug/CMakeFiles/aryan_blockchain.dir/blockchain.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

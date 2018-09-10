@@ -1,3 +1,3 @@
-C:/Users/aryan/Desktop/aryan blockchain/cmake-build-debug/CMakeFiles/aryan_blockchain.dir
-C:/Users/aryan/Desktop/aryan blockchain/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/aryan/Desktop/aryan blockchain/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+K:/Github/Blockchain-Test/cmake-build-debug/CMakeFiles/aryan_blockchain.dir
+K:/Github/Blockchain-Test/cmake-build-debug/CMakeFiles/edit_cache.dir
+K:/Github/Blockchain-Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
